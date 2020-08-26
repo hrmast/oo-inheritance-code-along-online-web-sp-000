@@ -3,6 +3,6 @@ require_relative "./vehicle.rb"
 class Car < Vehicle
 
   def go
-    "VRRROOOOOOOOOOOOOOOOOOOOOOOOOOOM!!!!!"
+    return "VRRROOOOOOOOOOOOOOOOOOOOOOOOOOOM!!!!!"
   end
 end
